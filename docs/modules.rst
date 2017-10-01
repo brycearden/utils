@@ -1,7 +1,7 @@
-dv_utils
+utils
 ========
 
 .. toctree::
    :maxdepth: 4
 
-   dv_utils
+   utils

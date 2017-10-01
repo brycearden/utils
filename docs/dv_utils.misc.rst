@@ -1,21 +1,21 @@
-dv_utils.misc package
+utils.misc package
 =====================
 
 Submodules
 ----------
 
-dv_utils.misc.timing module
+utils.misc.timing module
 ---------------------------
 
-.. automodule:: dv_utils.misc.timing
+.. automodule:: utils.misc.timing
     :members:
     :undoc-members:
     :show-inheritance:
 
-dv_utils.misc.utils module
+utils.misc.utils module
 --------------------------
 
-.. automodule:: dv_utils.misc.utils
+.. automodule:: utils.misc.utils
     :members:
     :undoc-members:
     :show-inheritance:
@@ -24,7 +24,7 @@ dv_utils.misc.utils module
 Module contents
 ---------------
 
-.. automodule:: dv_utils.misc
+.. automodule:: utils.misc
     :members:
     :undoc-members:
     :show-inheritance:

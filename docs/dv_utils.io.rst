@@ -1,37 +1,37 @@
-dv_utils.io package
+utils.io package
 ===================
 
 Submodules
 ----------
 
-dv_utils.io.email module
+utils.io.email module
 ------------------------
 
-.. automodule:: dv_utils.io.email
+.. automodule:: utils.io.email
     :members:
     :undoc-members:
     :show-inheritance:
 
-dv_utils.io.file module
+utils.io.file module
 -----------------------
 
-.. automodule:: dv_utils.io.file
+.. automodule:: utils.io.file
     :members:
     :undoc-members:
     :show-inheritance:
 
-dv_utils.io.logging module
+utils.io.logging module
 --------------------------
 
-.. automodule:: dv_utils.io.logging
+.. automodule:: utils.io.logging
     :members:
     :undoc-members:
     :show-inheritance:
 
-dv_utils.io.terminal module
+utils.io.terminal module
 ---------------------------
 
-.. automodule:: dv_utils.io.terminal
+.. automodule:: utils.io.terminal
     :members:
     :undoc-members:
     :show-inheritance:
@@ -40,7 +40,7 @@ dv_utils.io.terminal module
 Module contents
 ---------------
 
-.. automodule:: dv_utils.io
+.. automodule:: utils.io
     :members:
     :undoc-members:
     :show-inheritance:

@@ -1,8 +1,8 @@
 =============
-dv_utils
+utils
 =============
 
-This is the documentation of **dv_utils**.
+This is the documentation of **utils**.
 
 .. note::
 

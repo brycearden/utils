@@ -1,4 +1,4 @@
-dv_utils.reg package
+utils.reg package
 ====================
 
 Subpackages
@@ -6,12 +6,12 @@ Subpackages
 
 .. toctree::
 
-    dv_utils.reg.debug
+    utils.reg.debug
 
 Module contents
 ---------------
 
-.. automodule:: dv_utils.reg
+.. automodule:: utils.reg
     :members:
     :undoc-members:
     :show-inheritance:

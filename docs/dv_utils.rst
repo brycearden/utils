@@ -1,4 +1,4 @@
-dv_utils package
+utils package
 ================
 
 Subpackages
@@ -6,14 +6,14 @@ Subpackages
 
 .. toctree::
 
-    dv_utils.io
-    dv_utils.misc
-    dv_utils.reg
+    utils.io
+    utils.misc
+    utils.reg
 
 Module contents
 ---------------
 
-.. automodule:: dv_utils
+.. automodule:: utils
     :members:
     :undoc-members:
     :show-inheritance:

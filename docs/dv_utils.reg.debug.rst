@@ -1,29 +1,29 @@
-dv_utils.reg.debug package
+utils.reg.debug package
 ==========================
 
 Submodules
 ----------
 
-dv_utils.reg.debug.avp module
+utils.reg.debug.avp module
 -----------------------------
 
-.. automodule:: dv_utils.reg.debug.avp
+.. automodule:: utils.reg.debug.avp
     :members:
     :undoc-members:
     :show-inheritance:
 
-dv_utils.reg.debug.logfile module
+utils.reg.debug.logfile module
 ---------------------------------
 
-.. automodule:: dv_utils.reg.debug.logfile
+.. automodule:: utils.reg.debug.logfile
     :members:
     :undoc-members:
     :show-inheritance:
 
-dv_utils.reg.debug.testlist module
+utils.reg.debug.testlist module
 ----------------------------------
 
-.. automodule:: dv_utils.reg.debug.testlist
+.. automodule:: utils.reg.debug.testlist
     :members:
     :undoc-members:
     :show-inheritance:
@@ -32,7 +32,7 @@ dv_utils.reg.debug.testlist module
 Module contents
 ---------------
 
-.. automodule:: dv_utils.reg.debug
+.. automodule:: utils.reg.debug
     :members:
     :undoc-members:
     :show-inheritance:
